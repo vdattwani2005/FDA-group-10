@@ -1,6 +1,4 @@
-def main():
-    print("Hello from fda!")
-
+import vansh
 
 if __name__ == "__main__":
-    main()
+    vansh.run()
